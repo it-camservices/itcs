@@ -39,7 +39,7 @@
 						<script language=JavaScript>
 						<!--
 						var itv = 50;
-						var step = 10;
+						var step = 5;
 						var start = 0;
 						var end = 0;
 						var currentOpac;
