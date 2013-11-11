@@ -20,7 +20,7 @@
 "</div>"
 						'<div style="position:absolute; top:513; left:0; z-index:1">'
 						var itv = 50;
-						var step = 10;
+						var step = 5;
 						var start = 0;
 						var end = 0;
 						var currentOpac;

@@ -15,6 +15,10 @@ $counter_user = "root";
 $counter_password = "";
 $counter_database = "itcam_db";
 
+//$counter_host = "localhost";
+//$counter_user = "itcamser_user";
+//$counter_password = "user123!@#";
+//$counter_database = "itcamser_db";
 // get basic information
 $counter_agent = $_SERVER['HTTP_USER_AGENT'];
 $counter_ip = $_SERVER['REMOTE_ADDR']; 

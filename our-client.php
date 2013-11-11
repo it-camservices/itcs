@@ -46,7 +46,78 @@
                         </div><!-- end id right_sidebar -->
 						<div id="left_content">
 							<div class="ws-title"><h1><?php echo $web['page_title'];?></h1></div>
-                            <?php echo $web['descriptions'];?>
+                            <!-------------- Block Item------------>
+                            	<table border="0">
+                                	<tr>
+                                    	<td>
+                                        	<table border="0" class="block-item">
+                                        		<tr>
+                                                	<td colspan="2"><a href="#"><img src="images/explore_vanishing_culture.png"></a>
+                                                    </td>
+                                               	</tr>
+                                                <tr>
+                                                	<td>
+                                                    	<h4>Explore Vanishing Culture</h4>
+                                                    </td>
+                                                    <td>
+                                                    	<a href="#">View Detail</a>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                       	</td>
+                                        <td>
+                                        	<table border="0" class="block-item">
+                                        		<tr>
+                                                	<td colspan="2"><a href="#"><img src="images/explore_vanishing_culture.png"></a>
+                                                    </td>
+                                               	</tr>
+                                                <tr>
+                                                	<td>
+                                                    	<h4>Explore Vanishing Culture</h4>
+                                                    </td>
+                                                    <td>
+                                                    	<a href="#">View Detail</a>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                    	<td>
+                                        	<table border="0" class="block-item">
+                                        		<tr>
+                                                	<td colspan="2"><a href="#"><img src="images/explore_vanishing_culture.png"></a>
+                                                    </td>
+                                               	</tr>
+                                                <tr>
+                                                	<td>
+                                                    	<h4>Explore Vanishing Culture</h4>
+                                                    </td>
+                                                    <td>
+                                                    	<a href="#">View Detail</a>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                        <td>
+                                        	<table border="0" class="block-item">
+                                        		<tr>
+                                                	<td colspan="2"><a href="#"><img src="images/explore_vanishing_culture.png"></a>
+                                                    </td>
+                                               	</tr>
+                                                <tr>
+                                                	<td>
+                                                    	<h4>Explore Vanishing Culture</h4>
+                                                    </td>
+                                                    <td>
+                                                    	<a href="#">View Detail</a>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                </table>
+                            <!-------------- End Block Item------------>
 						</div><!-- end id left_content -->
 					</div><!-- end id content_area -->
 					<div class="clear"></div><!-- end class clear -->
